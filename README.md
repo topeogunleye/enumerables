@@ -2,8 +2,7 @@
 
 # Ruby Enumerables
 
-> 
-
+>
 
 ## Built With
 
@@ -17,7 +16,11 @@
 - Twitter: [@twitterhandle](https://twitter.com/topeogunleye21)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ogunleye)
 
+  👤 **Dagic-zewdu**
 
+- GitHub: [Github](https://github.com/Dagic-zewdu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/dagic-zewdu/)
+- Twitter: [Twitter](https://twitter.com/dagic4)
 
 ## 🤝 Contributing
 
